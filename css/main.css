@@ -1,0 +1,234 @@
+/*
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com
+Twitter: @rich_clark
+*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+
+/* own code */
+
+/* HEADER CODE */
+header{
+    font-family: Catamaran;
+}
+
+header #invisible{
+    width: 100vw;
+    height: 0px;
+    background-color: rgb(73,73,73);
+    transition: 0.5s ease-in-out all;
+    overflow: hidden;
+}
+
+header .fa-bars{
+  margin-left: 325px;
+    margin-top: 36px;
+   font-size: 26px;
+    color: rgb(73,73,73);
+    cursor: pointer;
+}
+
+#closebtn{
+    color: white;
+    font-size: 26px;
+    margin-left: 325px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+header .big-text{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 87px ;
+}
+
+header .welcome{
+    font-size: 23px;
+    text-align: center;
+    margin-top: 14px;
+    font-weight: 400;
+}
+
+header .welcome-extra{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 14px;
+    font-weight: 300;
+}
+
+/* MAIN CODE */
+
+main{
+    font-family: Catamaran;
+}
+
+
+main .infomy{
+    background-color: rgb(200,200,200);
+    height: 275px;
+    width: 100vw;
+    margin-top: 75px;
+
+}
+
+main .title{
+    padding-top: 25px;
+    font-size: 23px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+main .name{
+    padding-top: 35px;
+    font-size: 22px;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+}
+
+main .infomyid{
+    padding-top: 26px;
+    font-size: 22px;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+}
+
+main .infomyst{
+    padding-top: 22px;
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+}
+
+main .infomyda{
+    padding-top: 22px;
+    font-size: 20px;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+
+}
+
+main .thirdthing{
+    background-color: rgb(213,213,213);
+    width: 100vw;
+    height: 350px;
+    margin-top: 50px;
+
+}
+
+main .thirdtitle{
+    padding-top: 30px;
+    font-size: 23px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+main .thirdtext{
+    padding-top: 30px;
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+}
