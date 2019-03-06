@@ -110,7 +110,7 @@ header{
 }
 
 header #invisible{
-    width: 100vw;
+    width: 100%;
     height: 0px;
     background-color: rgb(73,73,73);
     transition: 0.5s ease-in-out all;
@@ -163,7 +163,7 @@ main{
 main .infomy{
     background-color: rgb(200,200,200);
     height: 275px;
-    width: 100vw;
+    width: 100%;
     margin-top: 75px;
 
 }
@@ -211,7 +211,7 @@ main .infomyda{
 
 main .thirdthing{
     background-color: rgb(213,213,213);
-    width: 100vw;
+    width: 100%;
     height: 350px;
     margin-top: 50px;
 
