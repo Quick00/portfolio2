@@ -128,7 +128,7 @@ header .fa-bars{
 #closebtn{
     color: white;
     font-size: 26px;
-    margin-left: 325px;
+    margin-left: 340px;
     margin-top: 20px;
     cursor: pointer;
 }
@@ -227,7 +227,7 @@ main .thirdtitle{
 
 main .thirdtext{
     padding-top: 30px;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 300;
     color: black;
     text-align: center;
