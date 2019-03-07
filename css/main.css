@@ -158,6 +158,7 @@ header .welcome-extra{
 
 header .nav-text{
     font-family: Catamaran;
+    user-select: none;
     margin-top: 40px;
     line-height: 30px;
     font-size: 25px;
