@@ -127,9 +127,10 @@ header .fa-bars{
 }
 
 #closebtn{
+    position: absolute;
     color: white;
+    right: 30px;
     font-size: 26px;
-    margin-left: 340px;
     margin-top: 20px;
     cursor: pointer;
 }
