@@ -2,7 +2,7 @@
 open = false;
 function MenuOpen(){
 
-        document.getElementById("invisible").style.height = "175px";
+        document.getElementById("invisible").style.height = "150px";
         document.getElementById("openbtn").style.opacity = 0;
 
 
