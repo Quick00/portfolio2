@@ -185,24 +185,8 @@ main .name{
     text-align: center;
 }
 
-main .infomyid{
-    padding-top: 26px;
-    font-size: 15px;
-    font-weight: 300;
-    color: black;
-    text-align: center;
-}
-
-main .infomyst{
-    padding-top: 22px;
-    font-size: 15px;
-    font-weight: 300;
-    color: black;
-    text-align: center;
-}
-
-main .infomyda{
-    padding-top: 22px;
+main .secondtext{
+    padding-top: 30px;
     font-size: 15px;
     font-weight: 300;
     color: black;
