@@ -179,7 +179,7 @@ main .title{
 
 main .name{
     padding-top: 35px;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 300;
     color: black;
     text-align: center;
@@ -187,7 +187,7 @@ main .name{
 
 main .infomyid{
     padding-top: 26px;
-    font-size: 22px;
+    font-size: 15px;
     font-weight: 300;
     color: black;
     text-align: center;
@@ -195,7 +195,7 @@ main .infomyid{
 
 main .infomyst{
     padding-top: 22px;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 300;
     color: black;
     text-align: center;
@@ -203,7 +203,7 @@ main .infomyst{
 
 main .infomyda{
     padding-top: 22px;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 300;
     color: black;
     text-align: center;
@@ -227,6 +227,29 @@ main .thirdtitle{
 }
 
 main .thirdtext{
+    padding-top: 30px;
+    font-size: 15px;
+    font-weight: 300;
+    color: black;
+    text-align: center;
+}
+
+main .fourthborder{
+    margin-top: 50px;
+    background-color: rgb(230,230,230);
+    width: 100%;
+    height: 250px;
+}
+
+main .fourthtitle{
+    padding-top: 30px;
+    font-size: 23px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+}
+
+main .fourthinfo{
     padding-top: 30px;
     font-size: 15px;
     font-weight: 300;
