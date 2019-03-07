@@ -118,22 +118,21 @@ header #invisible{
 }
 
 header .fa-bars{
-  position: absolute;
-    right: 20px;
+  float: right;
+    margin-right: 20px;
     margin-top: 36px;
    font-size: 26px;
     color: rgb(73,73,73);
     cursor: pointer;
 }
 
-#closebtn{
-    position: absolute;
+header #closebtn{
     color: black;
-    opacity: 0;
-    right: 20px;
+    float: right;
     font-size: 26px;
     margin-top: 20px;
     cursor: pointer;
+    margin-right: 20px;
 }
 
 header .big-text{
